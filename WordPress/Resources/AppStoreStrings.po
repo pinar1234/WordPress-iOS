@@ -69,3 +69,28 @@ msgid ""
 "but we shined and buffed the code.\n"
 "Small changes add up!"
 msgstr ""
+
+#. translators: This is a promo message.
+msgctxt "app_store_screenshot-1"
+msgid "Enjoy your favourite sites"
+msgstr ""
+
+#. translators: This is a promo message.
+msgctxt "app_store_screenshot-2"
+msgid "Get notified in real-time"
+msgstr ""
+
+#. translators: This is a promo message.
+msgctxt "app_store_screenshot-3"
+msgid "Manage your site everywhere you go"
+msgstr ""
+
+#. translators: This is a promo message.
+msgctxt "app_store_screenshot-4"
+msgid "Share your ideas with the world"
+msgstr ""
+
+#. translators: This is a promo message.
+msgctxt "app_store_screenshot-5"
+msgid "All the stats in your end"
+msgstr ""
